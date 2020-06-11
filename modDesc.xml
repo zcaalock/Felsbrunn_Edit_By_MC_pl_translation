@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="47">
+    <author>Mc</author>
+    <version>5.0</version>
+    <title>
+        <en>Welcome to Felsbrunn</en>
+        <de>Willkommen auf Felsbrunn</de>
+		<pl>Witamy Felsbrunn</pl>
+    </title>
+    
+	<description>
+        <en>Welcome to Felsbrunn</en>
+        <de>Willkommen auf Felsbrunn</de>
+		<pl>Witamy Felsbrunn</pl>
+    </description>
+    
+	<iconFilename>icon.png</iconFilename>
+    <multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="scripts/BGASchiebetor.lua"/>
+		<sourceFile filename="scripts/FillTypeMover.lua" />
+		<sourceFile filename="scripts/GC_Checker.lua" />
+		<sourceFile filename="scripts/categorizer.lua" />
+        <sourceFile filename="scripts/AnimalFix.lua" />
+        <sourceFile filename="scripts/ChurchClock.lua" />
+        <sourceFile filename="scripts/animatedClock.lua" />
+		<sourceFile filename="scripts/l10nFix.lua"/>
+		<sourceFile filename="scripts/ManureSystemAvailabilityCheck.lua"/>
+		<sourceFile filename="scripts/SeasonsAnimalDeathFix.lua" />		
+    </extraSourceFiles>
+	
+	<storeItems>
+		<storeItem xmlFilename="data/bga/bga.xml" />
+		<storeItem xmlFilename="maps/placeables/HallenpackVertexDezign/compositeHall6.xml"/>
+        <storeItem xmlFilename="maps/placeables/HallenpackVertexDezign/compositeHall3.xml"/>
+		<storeItem xmlFilename="maps/placeables/HallenpackVertexDezign/compositeHall4.xml"/>
+		<storeItem xmlFilename="maps/placeables/HallenpackVertexDezign/compositeHall5.xml"/>
+		<storeItem xmlFilename="maps/placeables/Regal/shelf.xml"/>
+		<storeItem xmlFilename="maps/placeables/Brunnenwasser/Brunnenwasser.xml"/>
+		<storeItem xmlFilename="maps/placeables/PFERDESTALL_MIT_BOXEN/husbandryHorseLarge.xml"/>
+        <storeItem xmlFilename="maps/placeables/farmBuildings/farmHouse.xml" />
+		<storeItem xmlFilename="maps/placeables/farmBuildings/farmBarn.xml" />
+		<storeItem xmlFilename="maps/placeables/Uebersichtstafel/Uebersichtstafel.xml" />
+		<storeItem xmlFilename="maps/placeables/PDAEnglish/PDAEnglish.xml" />		
+		<storeItem xmlFilename="maps/placeables/railroadcrane/crane.xml" />
+        <storeItem xmlFilename="maps/placeables/Kartoffelwascher/Kartoffelwascher.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/zuckerPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/beerPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/kartonPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/mehlPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/scheitholzPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/barrelPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/rumPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/whiskyPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/holzkohlePalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/bratkartoffelnPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/kartoffelauflaufPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/pommespalette.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/butterpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/hmilchpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/kaesepalett.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/quarkpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/yogurtpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/backwarenpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/brotpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/blumenkohlpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Flutlicht/Flutlicht.xml"/>
+        <storeItem xmlFilename="maps/placeables/Flutlichteinfach/Flutlichteinfach.xml"/>
+        <storeItem xmlFilename="maps/placeables/Strassenbeleuchtung/Strassenbeleuchtung.xml"/>
+        <storeItem xmlFilename="maps/placeables/Laterne/Laterne.xml"/>
+        <storeItem xmlFilename="maps/placeables/Paletten/tomatenpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/erdbeerpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/himbeerpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/salatpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/weisskohlpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/eggpallet/eggPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/apfelpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/birnenpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/kirschenpalett.xml" />	
+		<storeItem xmlFilename="maps/placeables/Paletten/pflaumenpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/rindfleischpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/lammbratenpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/schweinebratenpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/stoffpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Hoftankstelle/Hoftankstelle.xml" />
+        <storeItem xmlFilename="maps/placeables/Produktionstafel/Produktionstafel.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/zigarettenpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/pioneerPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/kalkPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/duengerPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/karottensaftpalett.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/weisskrautsalatPallet.xml" />
+        <storeItem xmlFilename="maps/placeables/Paletten/rotkrautsalatPallet.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/eggpalett.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/woodBeams.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/emptypallet.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/boardsPallet_fillablePallet.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/pelletsPallet.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/sideboardPallet.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/wallunitPallet.xml" />
+	    <storeItem xmlFilename="maps/placeables/Paletten/woodencabinetPallet.xml" />		
+        <storeItem xmlFilename="maps/placeables/farmSilos/farmSiloLarge.xml" />
+        <storeItem xmlFilename="maps/placeables/farmSilos/siloExtension.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/apfelsaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/birnensaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/erdbeersaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/himbeersaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/kirschsaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/pflaumensaftpalett.xml" />
+		<storeItem xmlFilename="maps/placeables/Paletten/Eispalett.xml" />		
+		<storeItem rootNode="tool" xmlFilename="maps/vehicles/wheelLoaderShovel.xml"/>
+        <storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Birch_S01.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Birch_S02.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Birch_S03.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Birch_S04.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Birch_S05.xml" />
+        <storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Maple_S05.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Beech_S05.xml" />
+        <storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Spruce_S01.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Spruce_S02.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Spruce_S03.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Spruce_S04.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Spruce_S05.xml" />
+        <storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S01.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S02.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S03.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S04.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S05.xml" />
+		<storeItem xmlFilename="maps/placeables/PlaceablesTrees/Tree_Pine_S06.xml" />
+		<storeItem xmlFilename="maps/vehicles/Grimme_FT300.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Grimme_KS75-4.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Grimme_Rootster604.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Grimme_SE260.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Grimme_Varitron470.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Holmer_HR12.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Holmer_TerraDosT4_40.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Ropa_Keiler2.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Ropa_Panther2.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Ropa_RR6x45.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Ropa_RR-XL9x45.xml"/>
+		<storeItem xmlFilename="maps/vehicles/Ropa_Tiger6.xml"/>
+		
+
+    </storeItems>
+	
+	<newcategory name="multiFruitHarvesting" title="MULTIFRUIT" type="TOOL" img="maps/vehicles/categoryTool.dds" />
+	<newcategory name="multiFruitVehicles" title="MULTIFRUIT" type="VEHICLE" img="maps/vehicles/categoryVehicles.dds" />	
+
+	<specializations>
+		<specialization name="FruitPreparerExtended" className="FruitPreparerExtended" filename="scripts/FruitPreparerExtended.lua"/>
+	</specializations>
+
+	<vehicleTypes>
+
+		<type name="combineCutterFruitPreparerMulti" parent="combineDrivable" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+			<specialization name="cutter"/>
+			<specialization name="FruitPreparerExtended"/>
+		</type>
+
+		<type name="cutterFruitPreparerMulti" parent="cutter" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+			<specialization name="randomlyMovingParts" />
+			<specialization name="FruitPreparerExtended"/>
+		</type>
+
+		<type name="attachableCombineCutterFruitPreparerMulti" parent="attachableCombine" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+			<specialization name="FruitPreparerExtended"/>
+		</type>
+
+		<type name="fruitPreparerMulti" parent="baseGroundTool" className="Vehicle" filename="$dataS/scripts/vehicles/Vehicle.lua">
+			<specialization name="turnOnVehicle" />
+			<specialization name="FruitPreparerExtended"/>
+		</type>
+
+	</vehicleTypes>	
+
+    <l10n>
+		<text name="dieselherstellung">
+            <en>Diesel production</en>
+            <de>Dieselherstellung</de>
+			<pl>Produkcja oleju napędowego</pl>
+        </text>
+		<text name="gewächshaeuser">
+            <en>Greenchouse</en>
+            <de>Gewächshaeuser</de>
+			<pl>Szklarnia</pl>
+        </text>
+		<text name="komposter">
+            <en>Composter</en>
+            <de>Komposter</de>
+			<pl>Kopostownik</pl>
+        </text>
+		<text name="brauerei">
+            <en>Brewey</en>
+            <de>Brauerei</de>
+			<pl>Browar</pl>
+        </text>
+		<text name="backwarenherstellung">
+            <en>Bakery</en>
+            <de>Backwarenherstellung</de>
+			<pl>Piekarnia</pl>
+        </text>
+		<text name="holzfassherstellung">
+            <en>Barrel production</en>
+            <de>Holzfassherstellung</de>
+			<pl>Produkcja beczek drewnianych</pl>
+        </text>
+		<text name="holzkohleherstellung">
+            <en>Charcoal production</en>
+            <de>Holzkohleherstellung</de>
+			<pl>Produkcja węgla drzewnego</pl>
+        </text>
+		<text name="RumWhiskyherstellung">
+            <en>Rum/Whiskey production</en>
+            <de>RumWhiskyherstellung</de>
+			<pl>Produkcja Rumu/Whiskey</pl>
+        </text>
+		<text name="SaegewerkProduktion">
+            <en>Sawmill</en>
+            <de>SaegewerkProduktion</de>
+			<pl>Tartak</pl>
+        </text>
+		<text name="Scheitholzherstellung">
+            <en>Firewood production</en>
+            <de>Scheitholzherstellung</de>
+			<pl>Produkcja drewna opałowego</pl>
+        </text>
+		<text name="Mehlherstellung">
+            <en>Flour production</en>
+            <de>Mehlherstellung</de>
+			<pl>Młyn</pl>
+        </text>
+		<text name="Kartoffelfabrik">
+            <en>Potato factory</en>
+            <de>Kartoffelfabrik</de>
+			<pl>Przetwórnia ziemniaków</pl>
+        </text>
+		<text name="Kartonherstellung">
+            <en>Carton making</en>
+            <de>Kartonherstellung</de>
+			<pl>Produkcja kartonu</pl>
+        </text>
+		<text name="Zuckerfabrik">
+            <en>Sugar factory</en>
+            <de>Zuckerfabrik</de>
+			<pl>Cukrownia</pl>
+        </text>
+		<text name="Stoffherstellung">
+            <en>Fabric manufacture</en>
+            <de>Stoffherstellung</de>
+			<pl>Produkcja tkanin</pl>
+        </text>
+		<text name="Zigarettenherstellung">
+            <en>Cigarette production</en>
+            <de>Zigarettenherstellung</de>
+			<pl>Produkcja papierosów</pl>
+        </text>
+		<text name="Malzherstellung">
+            <en>Malt production</en>
+            <de>Malzherstellung</de>
+			<pl>Produkcja słodu</pl>
+        </text>		
+		<text name="Schlachterei">
+            <en>Butchery</en>
+            <de>Schlachterei</de>
+			<pl>Rzeźnia</pl>
+        </text>
+		<text name="Molkerei">
+            <en>Dairy</en>
+            <de>Molkerei</de>
+			<pl>Mleczarnia</pl>
+        </text>
+		<text name="Obstfarm">
+            <en>Fruit farm</en>
+            <de>Obstfarm</de>
+			<pl>Przetwórnia owoców</pl>
+        </text>
+		<text name="Karottensaftproduktion">
+            <en>Carrot juice production</en>
+            <de>Karottensaftproduktion</de>
+			<pl>Produkcja soku z marchwi</pl>
+        </text>
+		<text name="Salatfabrik">
+            <en>Salad factory</en>
+            <de>Salatfabrik</de>
+			<pl>Fabryka sałatek</pl>
+        </text>
+		<text name="LogistikcenterNord">
+            <en>Logistic Center North</en>
+            <de>LogistikcenterNord</de>
+			<pl>Centrum Logistyczne Północ</pl>
+        </text>
+		<text name="LogistikcenterSuedWest">
+            <en>Logistic Center South-West</en>
+            <de>LogistikcenterSuedWest</de>
+			<pl>Centrum Logistyczne Południowo-Wschodnie</pl>
+        </text>
+		<text name="LogistikcenterSued">
+            <en>Logistic Center South</en>
+            <de>LogistikcenterSued</de>
+			<pl>Centrum Logistyczne Południe</pl>
+        </text>
+		<text name="FruchtsaftParadies">
+            <en>Fruit Juice Paradise</en>
+            <de>FruchtsaftParadies</de>
+			<pl>Raj Soków</pl>
+        </text>
+		<text name="Pelletsherstellung">
+            <en>Pellet production</en>
+            <de>Pelletsherstellung</de>
+			<pl>Produkcja pelletu</pl>
+        </text>
+		<text name="Möbelherstellung">
+            <en>Furniture Manufacture</en>
+            <de>Möbelherstellung</de>
+			<pl>Produkcja mebli</pl>
+        </text>
+		<text name="Stromversorgung">
+            <en>Power supply</en>
+            <de>Stromversorgung</de>
+			<pl>Zasilanie</pl>
+        </text>
+		<text name="Eismanufaktur">
+            <en>Ice cream manufactory</en>
+            <de>Eismanufaktur</de>
+			<pl>Produkcja lodów</pl>
+        </text>
+
+
+
+
+
+
+
+		<text name="function_machineshed">
+            <en>You can store your machines in this shed.</en>
+            <de>In dieser Halle kannst du deine Maschinen unterstellen.</de>
+			<pl>Możesz przechowywać swoje maszyny w tej szopie.</pl>
+        </text>
+		<text name="action_openSidedoor">
+            <en>open sidedoor</en>
+            <de>Seiteneingang öffnen</de>
+			<pl>Otwórz boczne wejście</pl>
+        </text>
+		<text name="action_closeSidedoor">
+            <en>close sidedoor</en>
+            <de>Seiteneingang schließen</de>
+			<pl>Zamknij boczne wejście</pl>
+        </text>
+		<text name="action_lightOn">
+            <en>switch light on</en>
+            <de>Licht anschalten</de>
+			<pl>Włącz światła</pl>
+        </text>
+		<text name="action_lightOut">
+            <en>switch light off</en>
+            <de>Licht ausschalten</de>
+			<pl>Wyłącz światła</pl>
+        </text>
+		<text name="compositeHall3">
+            <en>Machineshed 3 doors</en>
+            <de>Leimbinderhalle 3 Tore</de>
+			<pl>Warsztat 3 drzwi</pl>
+        </text>
+		<text name="compositeHall4">
+            <en>Machineshed 4 doors</en>
+            <de>Leimbinderhalle 4 Tore</de>
+			<pl>Warsztat 4 drzwi</pl>
+        </text>
+		<text name="compositeHall5">
+            <en>Machineshed 5 doors</en>
+            <de>Leimbinderhalle 5 Tore</de>
+			<pl>Warsztat 5 drzwi</pl>
+        </text>
+		<text name="compositeHall6">
+            <en>Machineshed 6 doors</en>
+            <de>Leimbinderhalle 6 Tore</de>
+			<pl>Warsztat 6 drzwi</pl>
+        </text>
+
+        <text name="action_moveup">
+            <en>Move up</en>
+            <de>anheben</de>
+			<pl>Podnieś</pl>
+        </text>
+        <text name="action_movedown">
+            <en>Move down</en>
+            <de>senken</de>
+			<pl>Opuść</pl>
+        </text>
+        <text name="carrot">
+			<en>Carrots</en>
+			<de>Karotten</de>
+			<pl>Marchewki</pl>
+		</text>
+        <text name="hops"> 
+		    <en>Hops</en> 
+			<de>Hopfen</de> 
+			<pl>Chmiel</pl>
+		</text>
+        <text name="onion"> 
+		    <en>Onions</en> 
+			<de>Zwiebeln</de> 
+			<pl>Cebule</pl>
+		</text>
+        <text name="carrot_haulm"> 
+		    <en>carrot haulm</en> 
+			<de>Karottenkraut</de>
+			<pl>Zielenina z marchwi</pl>	
+	    </text>
+        <text name="rye"> 
+		    <en>Rye</en> 
+			<de>Roggen</de> 
+			<pl>Żyto</pl>
+		</text>
+        <text name="lettuce"> 
+		    <en>Lettuce</en> 
+			<de>Kopfsalat</de> 
+			<pl>Sałata</pl>
+		</text>
+        <text name="spelt"> 
+		    <en>Spelt</en> 
+			<de>Dinkel</de> 
+			<pl>Orkisz</pl>
+		</text>
+        <text name="millet"> 
+		    <en>Millet</en> 
+			<de>Hirse</de> 
+			<pl></pl>
+		</text>
+        <text name="redCabbage"> 
+		    <en>Redcabbage</en> 
+			<de>Rotkohl</de> 
+			<pl>Proso</pl>
+		</text>
+        <text name="sorghum"> 
+		    <en>Sorghum</en> 
+			<de>Sorghum</de> 
+			<pl>Sorgo</pl>
+		</text>
+        <text name="triticale"> 
+		    <en>triticale</en> 
+			<de>Mischgetreide</de>
+			<pl>Pszenżyto</pl> 
+		</text>
+	    <text name="cabbage"> 
+		    <en>Cabbage</en> 
+			<de>Kohl</de> 
+			<pl>Kapusta</pl>
+		</text>
+        <text name="zucker"> 
+		    <en>sugar</en> 
+			<de>Zucker</de> 
+			<pl>Cukier</pl>
+		</text>
+        <text name="compost"> 
+		    <en>compost</en> 
+			<de>Kompost</de> 
+			<pl>Kompost</pl>
+		</text>
+		<text name="function_palletBier">
+			<en>Beer Pallet</en>
+			<de>Bier Palette</de>
+			<pl>Paleta z piwem</pl>
+		</text>
+        <text name="leerPallet"> 
+		    <en>emptypallet</en> 
+			<de>LeerPalette</de>
+			<pl>Pusta paleta</pl> 
+		</text>
+        <text name="bretterPallet"> 
+		    <en>boardwoodpallet</en> 
+			<de>BretterPallette</de> 
+			<pl>Paleta desek</pl>
+		</text>
+		<text name="Restaurant">
+			<en>Restaurant</en>
+			<de>Restaurant</de>
+			<pl>Restauracja</pl>
+		</text>
+        <text name="shopItem_Hoftankstelle">
+			<en>Hoftankstelle</en>
+			<de>Hoftankstelle</de>
+			<pl>Stacja paliw na dziedzińcu</pl>
+        </text>
+		<text name="function_Hoftankstelle">
+            <de>Befüllbaere Hoftankstelle</de>
+			<pl>Stacja paliwowa na dziedzińcu</pl>
+        </text>
+        <text name="$l10n_function_decoration">
+        <en>Storage hall</en>
+        <de>Lagerhalle</de>
+		<pl>Hala magazynowa</pl>
+        </text>
+        <text name="input_ANIMATED_OBJECT_OPEN_TIPDOORFERT"> 
+		    <en>Open pit door</en> 
+			<de>Abdeckung öffnen</de>
+			<pl>Otwórz pokrywę</pl> 
+		</text>
+        <text name="input_ANIMATED_OBJECT_CLOSE_TIPDOORFERT"> 
+		    <en>Close pit door</en> 
+			<de>Abdeckung schließen</de> 
+			<pl>Zamknij pokrywę</pl>
+		</text>
+		<text name="fillType_barkMulch">
+			<en>bark mulch</en>
+			<de>Rindenmulch</de>
+			<pl>Ściółka z kory</pl>
+		</text>
+		<text name="fillType_woodBeams">
+			<en>wood beams</en>
+			<de>Holzbalken</de>
+			<pl>Drewniane belki</pl>
+		</text>
+		<text name="fillType_emptyPallet">
+			<en>empty pallet</en>
+			<de>Leerpalette</de>
+			<pl>Pusta paleta</pl>
+		</text>
+		<text name="fillType_boardsPallet">
+			<en>boards pallet</en>
+			<de>Bretterpalette</de>
+			<pl>Paleta z deskami</pl>
+		</text>
+		<text name="fillType_wood">
+			<en>wood</en>
+			<de>Holz</de>
+			<pl>Drewno</pl>
+		</text>
+		<text name="closedText_default"> 
+			<en>Closed</en> 
+			<de>Geöffnet von 8:00 - 22:00 Uhr</de> 
+			<pl>Zamknięte</pl>
+		</text>
+		<text name="shopItem_Birch">
+			<en>Birch</en>
+			<de>Birke</de>
+			<pl>Brzoza</pl>
+		</text>
+		<text name="shopItem_Pine">
+			<en>Pine</en>
+			<de>Kiefer</de>
+			<pl>Sosna</pl>
+		</text>
+		<text name="shopItem_Spruce">
+			<en>Spruce</en>
+			<de>Fichte</de>
+			<pl>Świerk</pl>
+		</text>
+        <text name="shopItem_Maple">
+			<en>Maple</en>
+			<de>Ahorn</de>
+			<pl>Klon</pl>
+		</text>
+		<text name="shopItem_Beech">
+			<en>Beech</en>
+			<de>Buche</de>
+			<pl>Buk</pl>
+		</text>
+		<text name="fillType_woodencabinet">
+			<en>wooden cabinet</en>
+			<de>Schrank</de>
+			<pl>Szafka</pl>
+		</text>
+		<text name="fillType_sideboard">
+			<en>sideboard</en>
+			<de>Kommode</de>
+			<pl>Komoda</pl>
+		</text>
+		<text name="fillType_wallunit">
+			<en>wallunit</en>
+			<de>Meblościanka</de>
+			<pl></pl>
+		</text>
+		<text name="fillType_Eis">
+			<en>ice</en>
+			<de>Eis</de>
+			<pl>Lód</pl>
+		</text>
+        <text name="function_haulmTopperMulti" >
+			<de>Dieser Krautschläger entfernt das Kraut bevor die Frucht geerntet werden kann.</de>
+			<en>This haulm topper removes the haulm before the fruit can be harvested.</en>
+			<pl>Ta wykaszarka usuwa łęciny, zanim owoce zostaną zebrane</pl>
+		</text>
+
+        <text name="function_harvestingWithoutPreparer" >
+			<de>Dieser Roder benötigt keinen extra Krautschlägler, sondern holt die Frucht direkt aus dem Boden.</de>
+			<en>This harvester does not need an extra haulm topper, but brings the fruit straight out of the ground.</en>
+			<pl>Ten kombajn nie potrzebuje dodatkowej łopatki, ale wyciąga owoce prosto z ziemi.</pl>
+		</text>
+
+        <text name="function_harvestingMulti" >
+			<de>Dieser Roder holt die Frucht aus dem Boden. Diese Maschine kann erst nach dem Krautschlagen eingesetzt werden.</de>
+			<en>This harvester brings the fruit out of the ground. Note that a haulm topper is needed prior to using this machine.</en>
+			<pl>Ten kombajn wyciąga owoce z ziemi. Pamiętaj, że przed użyciem tego urządzenia potrzebna jest wykaszarka.</pl>
+		</text>
+
+	</l10n>
+
+    <maps>
+        <map id="SampleModMap" className="ModMap" filename="ModMap.lua" configFilename="maps/mapDE.xml" defaultVehiclesXMLFilename="defaultVehicles.xml" defaultItemsXMLFilename="defaultItems.xml">
+            <title>
+                <en>Welcome to Felsbrunn</en>
+                <de>Willkommen auf Felsbrunn</de>
+				<pl>Witamy w Felsbrunn</pl>
+            </title>
+            <description>
+                <en>Welcome to Felsbrunn</en>
+                <de>Willkommen auf Felsbrunn</de>
+				<pl>Witamy w Felsbrunn</pl>
+            </description>
+            <iconFilename>map_preview.png</iconFilename>
+        </map>
+    </maps>
+
+	<globalCompany minimumVersion="1.4.0.0" />	
+</modDesc>

@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+    <elements>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_function_gcSilageProduktion" v="Kiszonkę wytwarza się z plew lub trawy."/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_shopItem_SilageProduktionSmall" v="Silos fermentacyjny"/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_FactoryName" v="Silos fermentacyjny"/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_Description" v="Silos fermentacyjny produkuje kiszonkę."/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_HeaderInput" v="Wkład"/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_Input1" v="Materiał sypki"/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_HeaderOutput" v="Produkt"/>
+    <e k="Felsbrunn_Edit_By_MC_SilageProduktion_Output1" v="Kiszonka"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_function_gcMalzproduktion" v="Tu można wytwarzać słód."/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_shopItem_MalzproduktionSmall" v="Słód"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_FactoryName" v="Słód"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_Description" v="Tu można wytwarzać słód."/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_HeaderInput" v="Wkład"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_Input1" v="Pszenica / Jęczmień"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_Input2" v="Woda"/>	
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_HeaderOutput" v="Produkt"/>
+    <e k="Felsbrunn_Edit_By_MC_Malzproduktion_Output1" v="Słód"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_function" v="Olej napędowy i kompost są produkowane z rzepaku lub słoneczników"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_shopItem_DieselherstellungSmall" v="Produkcja oleju napędowego"/>	
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_productLine_diesel" v="Produkcja oleju napędowego"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_FactoryName" v="Produkcja oleju napędowego"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_Description" v="Olej napędowy i kompost są produkowane z rzepaku lub słoneczników"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_Input1" v="Rzepak lub słoneczniki"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_Output1" v="Olej napędowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Dieselherstellung_Output2" v="Kompost"/>	
+    <e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_function_gcZuckerherstellung" v="W tej fabryce produkowany jest cukier"/>
+    <e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_function" v="Cukier i kompost jest produkowany z buraka cukrowego lub trzciny cukrowej."/>
+    <e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_shopItem_ZuckerherstellungSmall" v="Produkcja cukru"/>	
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_FactoryName" v="Cukrownia"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_FactoryDescription" v="W tej fabryce produkowany jest cukier"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_productLine_Zucker" v="Produkcja cukru"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_Input1" v="Buraki cukrowe / trzcina cukrowa"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_Output1" v="Cukier"/>
+	<e k="Felsbrunn_Edit_By_MC_Zuckerherstellung_Output2" v="Kompost"/>	
+    <e k="Felsbrunn_Edit_By_MC_Bierherstellung_function_gcBierherstellung" v="W tej fabryce produkowane są palety z piwem."/>
+    <e k="Felsbrunn_Edit_By_MC_Bierherstellung_function" v="Palety z piwem produkowane są z pszenicy, jęczmienia, chmielu i słodu."/>	
+    <e k="Felsbrunn_Edit_By_MC_Bierherstellung_shopItem_BierherstellungSmall" v="Produkcja piwa"/>	
+    <e k="Felsbrunn_Edit_By_MC_Bierherstellung_FactoryName" v="Produkcja piwa"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_FactoryDescription" v="W tej fabryce produkowane są palety z piwem."/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_productLine_Bier" v="Produkcja piwa"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Input1" v="Pszenica"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Input2" v="Chmiel"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Input3" v="Słód"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Input4" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Input5" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Bierherstellung_Output1" v="Piwo"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk" v="Tartak"/>
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_function" v="Trociny są produkowane z pustych palet"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_productLine" v="Tartak linia produkcyjna"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_productLine_Leerpaletten" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_productLine_Bretterpaletten" v="Palety z deskami"/>
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_TitleProductline1" v="Linia produkcyjna pustych palet"/>
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_TitleProductline2" v="Linia produkcyjna palet z deskami"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_FactoryName" v="Tartak"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_FactoryDescription" v="Trociny są produkowane z pustych palet"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_Input1" v="Paliwo"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_Input2" v="Drewno"/>
+    <e k="Felsbrunn_Edit_By_MC_Saegewerk_Output1" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_Output2" v="Palety z deskami" />
+	<e k="Felsbrunn_Edit_By_MC_Saegewerk_Output3" v="Trociny"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonherstellung_function_gcKartonherstellung" v="W tej fabryce sąprodukowane kartonowe palety."/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonherstellung_function" v="Palety kartonowe produkowane są z drewna, zrębków i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Kartonherstellung_shopItem_KartonherstellungSmall" v="Produkcja kartonu"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kartonherstellung_FactoryName" v="Produkcja kartonu"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonherstellung_FactoryDescription" v="W tej fabryce są produkowane kartonowe palety."/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonherstellung_productLine_Kartonpalette" v="Produkcja kartonu"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonherstellung_Input1" v="Drewno"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonherstellung_Input2" v="Trociny"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonherstellung_Input3" v="Puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonherstellung_Output1" v="Karton"/>
+    <e k="Felsbrunn_Edit_By_MC_Mehlherstellung_function_gcMehlherstellung" v="W tej fabryce produkowana jest mąka na paletach"/>
+    <e k="Felsbrunn_Edit_By_MC_Mehlherstellung_function" v="Palety z mąką są produkowane z pszenicy, jęczmia, żyta lub orkiszu oraz kartonowych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Mehlherstellung_shopItem_MehlherstellungSmall" v="Produkcja mąki"/>	
+    <e k="Felsbrunn_Edit_By_MC_Mehlherstellung_FactoryName" v="Produkcja mąki"/>
+	<e k="Felsbrunn_Edit_By_MC_Mehlherstellung_FactoryDescription" v="W tej fabryce produkowana jest mąka na paletach"/>
+	<e k="Felsbrunn_Edit_By_MC_Mehlherstellung_productLine_Mehl" v="Produkcja mąki"/>
+	<e k="Felsbrunn_Edit_By_MC_Mehlherstellung_Input1" v="Pszenica, jęczmień, żyto lub orkisz"/>
+	<e k="Felsbrunn_Edit_By_MC_Mehlherstellung_Input2" v="Karton"/>
+    <e k="Felsbrunn_Edit_By_MC_Mehlherstellung_Output1" v="Palety z mąką"/>
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_function_gcScheitholzherstellung" v="Ta fabryka produkuje palety z drewnem opałowym"/>
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_function" v="Palety a drewnem opałowym produkowane są z pustych palet i desek."/>	
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_shopItem_ScheitholzherstellungSmall" v="Produkcja drewna opałowego"/>	
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_FactoryName" v="Produkcja drewna opałowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_FactoryDescription" v="Ta fabryka produkuje palety z drewnem opałowym"/>
+	<e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_productLine_Scheitholzpaletten" v="Produkcja drewna opałowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_Input1" v="Palety z deskami" />
+	<e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_Input2" v="Puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_Output1" v="Palety z drewnem opałowym"/>
+    <e k="Felsbrunn_Edit_By_MC_Scheitholzherstellung_Output2" v="Trociny"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_function_gcHolzfassherstellung" v="W tej fabryce produkowane są palety z beczkami"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_function" v="Palety z beczkami produkowane są z desek i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_shopItem_HolzfassherstellungSmall" v="Produkcja beczek"/>	
+    <e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_FactoryName" v="Produkcja beczek"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_FactoryDescription" v="W tej fabryce produkowane są palety z beczkami"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_productLine_Holzfasspaletten" v="Produkcja beczek"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_Input1" v="Palety z deskami" />
+	<e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_Input2" v="Puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzfassherstellung_Output1" v="Palety z beczkami"/>
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_function_gcRumWhiskyherstellung" v="W tej fabryce produkowane są palety z rumem i palety z whiskey."/>
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_function" v="Palety z whishey i palety z rumem produkowane są z buraków, trzciny cukrowej albo kukurydzy i pustych palet, beczek oraz wody."/>	
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_shopItem_RumWhiskyherstellungSmall" v="Rum/Whisky"/>	
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_FactoryName" v="Rum/Whisky"/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_FactoryDescription" v="W tej fabryce produkowane są palety z rumem i palety z whiskey."/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_productLine_Rum/Whisky" v="Rum/Whisky"/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Input1" v="Burak cukrowy, trzcina cukrowa lub kukurydza"/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Input3" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Input4" v="Palety z beczkami"/>
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Output1" v="Rum"/>
+    <e k="Felsbrunn_Edit_By_MC_RumWhiskyherstellung_Output2" v="Whisky"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_function_gcHolzkohleherstellung" v="W tej fabryce można wytwarzać palety z węglem drzewnym."/>
+    <e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_function" v="Palety z węglem drzewnym produkowane są z wody, kłód drwena i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_shopItem_HolzkohleherstellungSmall" v="Produkcja węgla drzewnego"/>	
+    <e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_FactoryName" v="Produkcja węgla drzewnego"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_FactoryDescription" v="W tej fabryce można wytwarzać palety z węglem drzewnym."/>
+	<e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_productLine_Holzkohle" v="Produkcja węgla drzewnego"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_Input2" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_Input3" v="Palety z drewnem opałowym"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzkohleherstellung_Output1" v="Węgiel drzewny"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_function_gcKartoffelherstellung" v="W tej fabryce można wytwarzać produkty ziemniaczane."/>
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_function" v="Z mytych ziemniaków powstają produkty ziemniaczane."/>	
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_shopItem_KartoffelherstellungSmall" v="Produkty ziemniaczane"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_FactoryName" v="Przetwórstwo ziemniaków"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_FactoryDescription" v="W tej fabryce można wytwarzać produkty ziemniaczane."/>
+	<e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_productLine_Kartoffelprodukte" v="Przetwórstwo ziemniaków"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Input1" v="Myte ziemniaki"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Input2" v="Karton"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Input3" v="Puste palety"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Output1" v="Palety z pieczonymu ziemniakami"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Output2" v="Palety z duszonymi ziemniakami"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartoffelherstellung_Output3" v="Palety z frytkami"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_function_gcMilchprodukteherstellung" v="Fabryka produktów mlecznych"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_function" v="Produkty mleczne tworzone są z mleka, pustych palet i palet tekturowych."/>	
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_shopItem_MilchprodukteherstellungSmall" v="Produkcja mleka"/>	
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_FactoryName" v="Produkcja mleka"/>
+	<e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_FactoryDescription" v="Fabryka produktów mlecznych"/>
+	<e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_productLine_Milchprodukte" v="Produkcja mleka"/>
+	<e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Input1" v="Mleko"/>
+	<e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Input2" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Input3" v="Karton"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Output1" v="Masło"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Output2" v="Mleko pełne"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Output3" v="Ser"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Output4" v="Twaróg"/>
+    <e k="Felsbrunn_Edit_By_MC_Milchprodukteherstellung_Output5" v="Jogurt"/>
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_function_gcBackwarenherstellung" v="Produkty piekarnicze"/>
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_function" v="Produkty piekarnicze są wytwarzane z mleka, wody, pustych palet, palet z tekturą, mąki i jajek."/>	
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_shopItem_BackwarenherstellungSmall" v="Piekarnia"/>	
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_FactoryName" v="Piekarnia"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_FactoryDescription" v="Produkty piekarnicze"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_productLine_Backwaren" v="Piekarnia"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input2" v="Mleko"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input3" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input4" v="Karton"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input5" v="Mąka"/>
+	<e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Input6" v="Jajka"/>	
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Output1" v="Produkty piekarnicze"/>
+    <e k="Felsbrunn_Edit_By_MC_Backwarenherstellung_Output2" v="Chleb"/>
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung" v="Kalafior"/>
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_function_gcBlumenkohlherstellung" v="W tej szklarni rosną kalafiory"/>
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_function" v="Kalafior jest produkowany z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_shopItem_BlumenkohlherstellungSmall" v="Produkcja kalafiorów"/>	
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_FactoryName" v="Produkcja kalafiorów"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_FactoryDescription" v="W tej szklarni rosną kalafiory"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_productLine_Blumenkohl" v="Produkcja kalafiorów"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Output1" v="Kalafior"/>
+    <e k="Felsbrunn_Edit_By_MC_Blumenkohlherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_function_gcStrawberryproductsmanufacturing" v="W tej szklarni rosną truskawki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_function" v="Truskawki są produkowane z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_shopItem_ErdbeerherstellungSmall" v="Produkcja truskawek"/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_FactoryName" v="Produkcja truskawek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_FactoryDescription" v="W tej szklarni rosną truskawki"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_productLine_Erdbeeren" v="Produkcja truskawek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Output1" v="Truskawki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeerherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_function_gcTomatenherstellung" v="W tej szklarni rosną pomidory"/>
+    <e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_function" v="Pomidory są produkowane z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet"/>	
+    <e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_shopItem_TomatenherstellungSmall" v="Produkcja pomidorów"/>	
+    <e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_FactoryName" v="Produkcja pomidorów"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_FactoryDescription" v="W tej szklarni rosną pomidory"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_productLine_Tomaten" v="Produkcja pomidorów"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Output1" v="Pomidory"/>
+    <e k="Felsbrunn_Edit_By_MC_Tomatenherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_function_gcWeisskohlherstellung" v="W tej szklarni rośnie kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_function" v="Słata jest produkowana z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_shopItem_WeisskohlherstellungSmall" v="Produkcja sałaty"/>	
+    <e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_FactoryName" v="Produkcja sałaty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_FactoryDescription" v="W tej szklarni rośnie kapusta"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_productLine_Weisskohl" v="Produkcja sałaty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Output1" v="Kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_Weisskohlherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_function_gcHimbeerherstellung" v="W tej szklarni rosną maliny."/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_function" v="Maliny są produkowane z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_shopItem_HimbeerherstellungSmall" v="Produkcja malin"/>	
+    <e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_FactoryName" v="Produkcja malin"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_FactoryDescription" v="W tej szklarni rosną maliny."/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_productLine_Himbeeren" v="Produkcja malin"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Output1" v="Maliny"/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeerherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Salatherstellung_function_gcSalatherstellung" v="W tej szklarni rośnie sałata."/>
+    <e k="Felsbrunn_Edit_By_MC_Salatherstellung_function" v="Sałata jest produkowana z wody, oleju napędowego, płynnego nawozu, nasion i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Salatherstellung_shopItem_SalatherstellungSmall" v="Produkcja sałaty"/>	
+    <e k="Felsbrunn_Edit_By_MC_Salatherstellung_FactoryName" v="Produkcja sałaty"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_FactoryDescription" v="W tej szklarni rośnie sałata."/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_productLine_Salat" v="Produkcja sałaty"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Input2" v="Olej napędowy"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Input3" v="Nawóz płynny"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Input4" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Input5" v="Nasiona"/>
+	<e k="Felsbrunn_Edit_By_MC_Salatherstellung_Output1" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_Salatherstellung_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_function_gcObstherstellung" v="W tej fabryce produkowane są owoce."/>
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_function" v="Palety z owocami produkowane są z wody, gnojówki, obornika, komposty i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_shopItem_ObstherstellungSmall" v="Produkcja owoców"/>	
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_FactoryName" v="Produkcja owoców"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_FactoryDescription" v="W tej fabryce produkowane są owoce."/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_productLine_Obst" v="Produkcja owoców"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Input1" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Input2" v="Płynny obornik"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Input3" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Input4" v="Obornik"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Input5" v="Kompost"/>	
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Output1" v="Jabłka"/>
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_Output2" v="Wiśnie"/>
+	<e k="Felsbrunn_Edit_By_MC_Obstherstellung_Output3" v="Gruszki"/>
+    <e k="Felsbrunn_Edit_By_MC_Obstherstellung_Output4" v="Śliwki"/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_function_gcSchlachterei" v="Ta fabryka produkuje mięso."/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_function" v="Mięso jest produkowane z krów, owiec i świń."/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_shopItem_SchlachtereiSmall" v="Rzeźnia"/>	
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_productLine_Roastbeef" v="Pieczona wołowina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_TitleProductline1" v="Pieczona wołowina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_TitleProductline2" v="Pieczona Jagnięcina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_TitleProductline3" v="Pieczona Wieprzowina"/>	
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_productLine_Lammbraten" v="Pieczona Jagnięcina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_productLine_Schweinebraten" v="Pieczona Wieprzowina"/>	
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_FactoryName" v="Rzeźnia"/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_FactoryDescription" v="Ta fabryka produkuje mięso."/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_Input1" v="Krowa"/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_Input2" v="Owca"/>
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_Input3" v="Świnia"/>	
+    <e k="Felsbrunn_Edit_By_MC_Schlachterei_Output1" v="Pieczona wołowina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_Output2" v="Pieczona Jagnięcina"/>
+	<e k="Felsbrunn_Edit_By_MC_Schlachterei_Output3" v="Pieczona Wieprzowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Stoffherstellung_function_gcStoffherstellung" v="W tej fabryce produkowane są palety z tekstyliami."/>
+    <e k="Felsbrunn_Edit_By_MC_Stoffherstellung_function" v="Palety z tekstyliami produkowane są z bawełny i wełny."/>	
+    <e k="Felsbrunn_Edit_By_MC_Stoffherstellung_shopItem_StoffherstellungSmall" v="Produkcja tekstyliów"/>	
+    <e k="Felsbrunn_Edit_By_MC_Stoffherstellung_FactoryName" v="Produkcja tekstyliów"/>
+	<e k="Felsbrunn_Edit_By_MC_Stoffherstellung_FactoryDescription" v="W tej fabryce produkowane są palety z tekstyliami."/>
+	<e k="Felsbrunn_Edit_By_MC_Stoffherstellung_productLine_Stoffpaletten" v="Produkcja tekstyliów"/>
+	<e k="Felsbrunn_Edit_By_MC_Stoffherstellung_Input1" v="Wełna lub bawełna"/>
+    <e k="Felsbrunn_Edit_By_MC_Stoffherstellung_Output1" v="Palety z tekstyliami"/>
+    <e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_function_gcZigarettenherstellung" v="W tej fabryce produkowane są papierosy."/>
+    <e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_function" v="Papierosy są produkowane z tytoniu, pustych palet i palet z tekturą."/>	
+    <e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_shopItem_ZigarettenherstellungSmall" v="Produkcja papierosów"/>	
+    <e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_FactoryName" v="Produkcja papierosów"/>
+	<e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_FactoryDescription" v="W tej fabryce produkowane są papierosy."/>
+	<e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_productLine_Zigaretten" v="Produkcja papierosów"/>
+	<e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_Input1" v="Tytoń"/>
+	<e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_Input2" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_Input3" v="Karton"/>
+    <e k="Felsbrunn_Edit_By_MC_Zigarettenherstellung_Output1" v="Papierosy"/>	
+	<e k="Felsbrunn_Edit_By_MC_fillType_karotten" v="Marchewka"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_zwiebeln" v="Cebula"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_hopfen" v="Chmiel"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_roggen" v="Żyto"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_hirse" v="Proso"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_sorghum" v="Sorgo"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_dinkel" v="Orkisz"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_triticale" v="Pszenżyto"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kopfsalat" v="Sałata"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_weisskohl" v="kapusta"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_rotkohl" v="Czerwona kapusta"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kompost" v="Kompost"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_mohn" v="Mak"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_erdbeeren" v="Truskawki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_gewascheneKartoffeln" v="Myte ziemniaki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_malz" v="Słód"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_bier" v="Piwo"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_zucker" v="Cukier"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_mehl" v="Mąka"/>
+    <e k="Felsbrunn_Edit_By_MC_fillType_backwaren" v="Produkty piekarnicze"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_brot" v="Chleb"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_holzfass" v="Drewniane beczki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_karton" v="Karton"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_holzkohle" v="Węgiel drzewny"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_scheitholz" v="Drewno opałowe"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_bratkartoffeln" v="Pieczone ziemniaki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kartoffelauflauf" v="Duszone ziemniaki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_roastbeef" v="Pieczona wołowina"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_schweinebraten" v="Pieczona wieprzowina"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_lammbraten" v="Pieczona jagnięcina"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_rum" v="Rum"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_whisky" v="Whisky"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kaese" v="Ser"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_hMilch" v="HMilk"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_quark" v="Twaróg"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_butter" v="Masło"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_pommes" v="Frytki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_yogurt" v="Jogurt"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_wood" v="Drewno"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_blumenkohl" v="Kalafior"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_himbeeren" v="Maliny"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_tomaten" v="Pomidory"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_apfel" v="Jabłko"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kirschen" v="Wiśnia"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_birnen" v="Gruszka"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_pflaumen" v="Śliwka"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_stoff" v="Tekstylia"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_tabak" v="Tytoń"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_zigaretten" v="Papierosy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_karottensaft" v="Sok z marchwi"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_weisskrautsalat" v="Coleslaw"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_rotkrautsalat" v="Sałatka z czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_apfelsaft" v="Sok jabłkowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_birnensaft" v="Sok gruszkowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_erdbeersaft" v="Sok truskawkowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_himbeersaft" v="Sok malinowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_kirschsaft" v="Sok wiśniowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_pflaumensaft" v="Sok śliwkowy"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_boardsPallet" v="Paleta z deskami"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_barkMulch" v="Ściółka z kory"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_woodBeams" v="Drewniane belki"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_emptyPallet" v="Pusta paleta"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_pellets" v="Drewniana paleta"/>
+    <e k="Felsbrunn_Edit_By_MC_fillType_woodencabinet" v="Szafka"/>
+    <e k="Felsbrunn_Edit_By_MC_fillType_wallunit" v="Meblościanka"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_sideboard" v="Kredens"/>
+	<e k="Felsbrunn_Edit_By_MC_fillType_eis" v="Lód"/>	
+	<e k="Felsbrunn_Edit_By_MC_Palettenlager_function_Palettenlager" v="Tutaj możesz składować i odbierać palety deskowe i puste palety."/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_shopItem_PalettenlagerLinie1" v="Magazyn palet deskowych"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_shopItem_PalettenlagerLinie2" v="Magazyn pustych palet"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_FactoryName" v="Centrum logistyczne - puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_Description" v="Tutaj możesz składować i odbierać palety deskowe i puste palety."/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_Input1" v="Palety z deskami" />
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_Input2" v="Puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_HeaderOutput" v="wyślij z"/>
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_Output1" v="Palety z deskami" />
+    <e k="Felsbrunn_Edit_By_MC_Palettenlager_Output2" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Saatgutlager_FactoryName" v="Silos z nasionami"/>
+	<e k="Felsbrunn_Edit_By_MC_Saatgutlager_FactoryDescription" v="Tutaj możesz składować i odbierać nasiona jako materiał sypki lub w paczkach."/>
+    <e k="Felsbrunn_Edit_By_MC_Saatgutlager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Saatgutlager_productLine_seed" v="Silos z nasionami"/>
+	<e k="Felsbrunn_Edit_By_MC_Saatgutlager_Input1" v="Nasiona"/>
+    <e k="Felsbrunn_Edit_By_MC_Saatgutlager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Saatgutlager_Output1" v="Nasiona lub paczki"/>
+	<e k="Felsbrunn_Edit_By_MC_Kalklager_FactoryName" v="Magazyn wapna"/>
+	<e k="Felsbrunn_Edit_By_MC_Kalklager_FactoryDescription" v="Tutaj możesz składować i odbierać wapno jako materiał sypki lub w paczkach."/>
+    <e k="Felsbrunn_Edit_By_MC_Kalklager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Kalklager_productLine_lime" v="Magazyn wapna"/>
+	<e k="Felsbrunn_Edit_By_MC_Kalklager_Input1" v="Wapno"/>
+    <e k="Felsbrunn_Edit_By_MC_Kalklager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kalklager_Output1" v="Nasiona lub paczki"/>
+	<e k="Felsbrunn_Edit_By_MC_Duengerlager_FactoryName" v="Magazyn nawozu"/>
+	<e k="Felsbrunn_Edit_By_MC_Duengerlager_FactoryDescription" v="Tutaj możesz składować i odbierać nawóz jako materiał sypki lub w paczkach."/>
+    <e k="Felsbrunn_Edit_By_MC_Duengerlager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Duengerlager_productLine_fertilizer" v="Magazyn nawozu"/>
+	<e k="Felsbrunn_Edit_By_MC_Duengerlager_Input1" v="Nawóz"/>
+    <e k="Felsbrunn_Edit_By_MC_Duengerlager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Duengerlager_Output1" v="Nawóz lub paczki"/>
+	<e k="Felsbrunn_Edit_By_MC_Kartonlager_function_Kartonlager" v="Tutaj możesz składować i odbierać palety z deskami."/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_shopItem_Kartonlager" v="Magazyn tektury"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_FactoryName" v="Centrum logistyczne - Magazyn tektury"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_Description" v="Tutaj możesz składować i odbierać palety z deskami."/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_Input1" v="Karton"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_HeaderOutput" v="wyślij z"/>
+    <e k="Felsbrunn_Edit_By_MC_Kartonlager_Output1" v="Karton"/>
+	<e k="Felsbrunn_Edit_By_MC_Guellelager_FactoryName" v="Magazyn obornika"/>
+	<e k="Felsbrunn_Edit_By_MC_Guellelager_FactoryDescription" v="Tutaj możesz składować gnojówkę."/>
+    <e k="Felsbrunn_Edit_By_MC_Guellelager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Guellelager_productLine_liquidManure" v="Przechowywanie gnojówki"/>
+	<e k="Felsbrunn_Edit_By_MC_Guellelager_Input1" v="Płynny obornik"/>
+    <e k="Felsbrunn_Edit_By_MC_Guellelager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Guellelager_Output1" v="Płynny obornik"/>
+	<e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_FactoryName" v="Magazyn płynnego nawozu"/>
+	<e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_FactoryDescription" v="Tutaj możesz składować i odbierać nawóz płynny bezpośrednio lub utworzyć zbiornik."/>
+    <e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_productLine_liquidFertilizer" v="Magazyn płynnego nawozu"/>
+	<e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_Input1" v="Nawóz płynny"/>
+    <e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Fluessigduengerlager_Output1" v="Nawóz płynny lub zbiornik"/>
+	<e k="Felsbrunn_Edit_By_MC_Herbizidelager_FactoryName" v="Magazyn środków chwastobójczych"/>
+	<e k="Felsbrunn_Edit_By_MC_Herbizidelager_FactoryDescription" v="Tutaj możesz składować i odbierać środki chwastobójcze bezpośrednio lub utworzyć zbiornik."/>
+    <e k="Felsbrunn_Edit_By_MC_Herbizidelager_HeaderInput" v="Przechowywane"/>	
+	<e k="Felsbrunn_Edit_By_MC_Herbizidelager_productLine_herbicide" v="Magazyn środków chwastobójczych"/>
+	<e k="Felsbrunn_Edit_By_MC_Herbizidelager_Input1" v="Środek chwastobójczy"/>
+    <e k="Felsbrunn_Edit_By_MC_Herbizidelager_HeaderOutput" v="wyślij z"/>	
+    <e k="Felsbrunn_Edit_By_MC_Herbizidelager_Output1" v="Środek chwastobójczy lub zbiornik"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_function_Erdfruchtlager" v="Marchewki, ziemniaki, cebula, buraki cukrowe i myte ziemniaki mogą być tu przechowywane i odbierane."/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_shopItem_ErdfruchtlagerSmall" v="Warzywa ziemne"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_FactoryName" v="Warzywa ziemne"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Description" v="Marchewki, ziemniaki, cebula, buraki cukrowe i myte ziemniaki mogą być tu przechowywane i odbierane."/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Input1" v="marchewki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Input2" v="ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Input3" v="cebule"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Input4" v="buraki cukrowe"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Input5" v="myte ziemniaki"/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_HeaderOutput" v="wyślij z"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Output1" v="marchewki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Output2" v="ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Output3" v="cebule"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Output4" v="buraki cukrowe"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Output5" v="myte ziemniaki"/>	
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Karotten" v="Skład marchewek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Kartoffeln" v="Skład ziemniaków"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Zwiebeln" v="Skład cebuli"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_Zuckerrueben" v="Skład buraków cukrowych"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdfruchtlager_GewascheneKartoffeln" v="Skład mytych ziemniaków"/>	
+    <e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_function_gcKarottensaftproduktion" v="Sok z marchwi może być produkowany w tej fabryce."/>
+    <e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_function" v="Sok z marchwi jest produkowany z marchwi, wody, pustych palet i tektury."/>	
+    <e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_shopItem_KarottensaftproduktionSmall" v="Produkcja soku z marchwi"/>	
+    <e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_FactoryName" v="Produkcja soku z marchwi"/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_FactoryDescription" v="Sok z marchwi może być produkowany w tej fabryce."/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_productLine_Karottensaft" v="Produkcja soku z marchwi"/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_Input1" v="marchewki"/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_Input3" v="pusta paleta"/>
+	<e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_Input4" v="kartonowa paleta"/>
+    <e k="Felsbrunn_Edit_By_MC_Karottensaftproduktion_Output1" v="Sok z marchwi"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_function_Hofsilo" v="Owoce mogą być przechowywane i odbierane w tym silosie."/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo" v="Silos ogrodowy"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_FactoryName" v="Silos ogrodowy"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Description" v="Owoce mogą być przechowywane i odbierane w tym silosie."/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine1" v="Magazyn pszenicy"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine2" v="Magazyn kukurydzy"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine3" v="Magazyn soi"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine4" v="Magazyn rzepaku"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine5" v="Magazyn owsa"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine6" v="Magazyn słonecznika"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine7" v="Magazyn jęczmienia"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine8" v="Magazyn chmielu"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine9" v="Magazyn żyta"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine10" v="Magazyn prosa"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine11" v="Magazyn sorgo"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine12" v="Magazyn orkiszu"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine13" v="Magazyn pszenżyta"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine14" v="Magazyn rzodkiewki"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine15" v="Magazyn maku"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_shopItem_Hofsilo_productLine16" v="Magazyn tytoniu"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_HeaderInput" v="Przechowywane"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input1" v="Pszenica"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input2" v="Kukurydza"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input3" v="Soja"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input4" v="Rzepaka"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input5" v="Owies"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input6" v="Słonecznik"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input7" v="Jęczmień"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input8" v="Chmiel"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input9" v="Żyto"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input10" v="Proso"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input11" v="Sorgo"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input12" v="Orkisz"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input13" v="Pszenżyto"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input14" v="Rzodkiewka"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input15" v="Mak"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Input16" v="Tytoń"/>	
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_HeaderOutput" v="wyślij z"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output1" v="Pszenica"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output2" v="Kukurydza"/>	
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output3" v="Soja"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output4" v="Rzepak"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output5" v="Owies"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output6" v="Słonecznik"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output7" v="Jęczmień"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output8" v="Chmiel"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output9" v="Żyto"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output10" v="Proso"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output11" v="Sorghum"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output12" v="Orkisz"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output13" v="Pszenżyto"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output14" v="Rzodkiewka"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output15" v="Mak"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Hofsilo_Output16" v="Tytoń"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019" v="Kompostownik"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019_FactoryDescription" v="Tu możesz pordukować kompost"/>
+    <e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019_productLine" v="Kompostownik"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019_Input1" v="Słoma i obornik"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019_Input2" v="Olej napędowy"/>
+	<e k="FS19_Felsbrunn_Edit_By_MC_Kompostmaster2019_Output1" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_function_gcRotkrautsalatproduktion" v="W tej fabryce można produkować sałatkę z czerwonej kapusty"/>
+    <e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_function" v="Sałatka z czerwonej kapusty jest produkowana z czerwonej kapusty, wody, pustych palet i tektury."/>	
+    <e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_shopItem_RotkrautsalatproduktionSmall" v="Produkcja sałatki z czerwonej kapusty"/>	
+    <e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_FactoryName" v="Produkcja sałatki z czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_FactoryDescription" v="W tej fabryce można produkować sałatkę z czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_productLine_Rotkrautsalat" v="Produkcja sałatki z czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_Input1" v="Czerwona kapusta"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_Input3" v="pusta paleta"/>
+	<e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_Input4" v="kartonowa paleta"/>
+    <e k="Felsbrunn_Edit_By_MC_Rotkrautsalatproduktion_Output1" v="Sałatka z czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_function_gcWeisskrautsalatproduktion" v="W tej fabryce można produkować sałatkę z białej kapusty"/>
+    <e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_function" v="Sałatka z czerwonej kapusty jest produkowana z białej kapusty, wody, pustych palet i tektury."/>	
+    <e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_shopItem_WeisskrautsalatproduktionSmall" v="Produkcja sałatki z białej kapusty"/>	
+    <e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_FactoryName" v="Produkcja sałatki z białej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_FactoryDescription" v="W tej fabryce można produkować sałatkę z białej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_productLine_Weisskrautsalat" v="Produkcja sałatki z białej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_Input1" v="Biała kapusta"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_Input3" v="pusta paleta"/>
+	<e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_Input4" v="paleta z tekturą"/>
+    <e k="Felsbrunn_Edit_By_MC_Weisskrautsalatproduktion_Output1" v="Sałatka z białej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_function_KohlundSalatlager" v="Tutaj możesz przechowywać czerwoną kapustę, białą kapustę, sałatę i trzcinę cukrową."/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_shopItem_KohlundSalatlagerSmall" v="Magazyn kapusty, sałaty i trzciny cukrowej"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_FactoryName" v="Magazyn kapusty, sałaty i trzciny cukrowej"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Description" v="Tutaj możesz przechowywać czerwoną kapustę, białą kapustę, sałatę i trzcinę cukrową."/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Input1" v="Czerwona kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Input2" v="Biała kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Input3" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Input4" v="Trzcia cukrowa"/>	
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Output1" v="Czerwona kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Output2" v="Biała kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Output3" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Output4" v="Trzcia cukrowa"/>	
+    <e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Rotkohl" v="Magazyn czerwonej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Weisskohl" v="Magazyn białej kapusty"/>
+	<e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Salat" v="Magazyn sałaty"/>
+	<e k="Felsbrunn_Edit_By_MC_KohlundSalatlager_Zuckerrohr" v="Magazyn trzciny cukrowej"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_function_Logistikcenter1" v="Tutaj możesz składować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1" v="Centrum logistyczne północ"/>	
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine1_Backwaren" v="Produkty piekarnicze"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_FactoryName" v="Centrum logistyczne"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Description" v="Tutaj możesz kładować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input1" v="Produkty piekarnicze"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output1" v="Produkty piekarnicze"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine2_Brot" v="Pieczywo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input2" v="Pieczywo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output2" v="Pieczywo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine3_Holzfass" v="Beczki drewniane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input3" v="Beczki drewniane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output3" v="Beczki drewniane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine4_Holzkohle" v="Węgiel drzewny"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input4" v="Węgiel drzewny"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output4" v="Węgiel drzewny"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine5_Scheitholz" v="Kłody drewna"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input5" v="Kłody drewna"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output5" v="Kłody drewna"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine6_Stoff" v="Tekstylia"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input6" v="Tekstylia"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output6" v="Tekstylia"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine7_Zigaretten" v="Papierosy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input7" v="Papierosy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output7" v="Papierosy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine8_Bier" v="Piwo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input8" v="Piwo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output8" v="Piwo"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine9_Mehl" v="Mąka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input9" v="Mąka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output9" v="Mąka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine10_Rum" v="Rum"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input10" v="Rum"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output10" v="Rum"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine11_Whisky" v="Whisky"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input11" v="Whisky"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output11" v="Whisky"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine12_Zucker" v="Cukier"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input12" v="Cukier"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output12" v="Cukier"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_shopItem_Logistikcenter1_productLine13_Pellets" v="Drewniane palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Input13" v="Drewniane palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter1_Output13" v="Drewniane palety"/>	
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_function_Logistikcenter2" v="Tutaj możesz składować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2" v="Centrum logistyczne południowo-wschodnie"/>	
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_FactoryName" v="Centrum logistyczne południowo-wschodnie"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Description" v="Tutaj możesz składować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine1_Aepfel" v="Jabłka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input1" v="Jabłka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output1" v="Jabłka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine2_Birnen" v="Gruszki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input2" v="Gruszki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output2" v="Gruszki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine3_Blumenkohl" v="Kalafior"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input3" v="Kalafior"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output3" v="Kalafior"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine4_Erdbeeren" v="Truskawka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input4" v="Truskawka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output4" v="Truskawka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine5_Himbeeren" v="Malina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input5" v="Malina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output5" v="Malina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine6_Kirschen" v="Wiśnie"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input6" v="Wiśnie"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output6" v="Wiśnie"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine7_Pflaumen" v="Śliwki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input7" v="Śliwki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output7" v="Śliwki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine8_Salat" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input8" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output8" v="Sałata"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine9_Tomaten" v="Pomidory"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input9" v="Pomidory"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output9" v="Pomidory"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_shopItem_Logistikcenter2_productLine10_Weisskohl" v="Biała kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Input10" v="Biała kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter2_Output10" v="Biała kapusta"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_function_Logistikcenter3" v="Tutaj możesz składować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3" v="Centrum logistyczne południe"/>	
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_FactoryName" v="Centrum logistyczne południe"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Description" v="Tutaj możesz składować palety z produktami."/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine1_Rotkrautsalat" v="Sałatka z czerwonej kapusty"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input1" v="Sałatka z czerwonej kapusty"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output1" v="Sałatka z czerwonej kapusty"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine2_Weisskrautsalat" v="Biała kapusta sałatka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input2" v="Biała kapusta sałatka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output2" v="Biała kapusta sałatka"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine3_Bratkartoffeln" v="Pieczone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input3" v="Pieczone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output3" v="Pieczone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine4_Kartoffelauflauf" v="Duszone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input4" v="Duszone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output4" v="Duszone ziemniaki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine5_PommesFrites" v="Frytki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input5" v="Frytki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output5" v="Frytki"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine6_Roastbeef" v="Pieczona wołowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input6" v="Pieczona wołowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output6" v="Pieczona wołowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine7_Schweinebraten" v="Pieczona wieprzowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input7" v="Pieczona wieprzowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output7" v="Pieczona wieprzowina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine8_Lammbraten" v="Pieczona jagnięcina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input8" v="Pieczona jagnięcina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output8" v="Pieczona jagnięcina"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine9_Butter" v="Masło"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input9" v="Masło"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output9" v="Masło"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine10_HMilch" v="Mleko"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input10" v="Mleko"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output10" v="Mleko"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine11_Kaese" v="Ser"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input11" v="Ser"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output11" v="Ser"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine12_Karottensaft" v="Sok marchewkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input12" v="Sok marchewkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output12" v="Sok marchewkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine13_Quark" v="Twaróg"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input13" v="Twaróg"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output13" v="Twaróg"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_shopItem_Logistikcenter3_productLine14_Yogurt" v="Jogurt"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Input14" v="Jogurt"/>
+    <e k="Felsbrunn_Edit_By_MC_Logistikcenter3_Output14" v="Jogurt"/>
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_function_gcApfelsaftherstellung" v="Produkcja soku jabłkowego."/>
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_function" v="Sok jabłkowy jest produkowany na paletach z jabłek, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_shopItem_ApfelsaftherstellungSmall" v="Produkcja soku jabłkowegon"/>	
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_FactoryName" v="Produkcja soku jabłkowegon"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_FactoryDescription" v="Produkcja soku jabłkowego."/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_productLine_Apfelsaft" v="Produkcja soku jabłkowegon"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Input1" v="Jabłka"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Input3" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Input4" v="palety deskowe"/>
+	<e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Output1" v="Sok jabłkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Apfelsaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_function_gcBirnensaftherstellung" v="Produkcja soku gruszkowego"/>
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_function" v="Sok gruszkowy jest produkowany na paletach z jabłek, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_shopItem_BirnensaftherstellungSmall" v="Produkcja soku gruszkowego"/>	
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_FactoryName" v="Produkcja soku gruszkowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_FactoryDescription" v="Produkcja soku gruszkowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_productLine_Birnensaft" v="Produkcja soku gruszkowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Input1" v="Gruszki"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Input3" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Input4" v="palety deskowe"/>
+	<e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Output1" v="Sok z gruszek"/>
+    <e k="Felsbrunn_Edit_By_MC_Birnensaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_function_gcErdbeersaftherstellung" v="Produkcja soku z truskawek"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_function" v="Sok truskawkowy jest produkowany na paletach z truskawek, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_shopItem_ErdbeersaftherstellungSmall" v="Produkcja soku z truskawek"/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_FactoryName" v="Produkcja soku z truskawek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_FactoryDescription" v="Produkcja soku z truskawek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_productLine_Erdbeersaft" v="Produkcja soku z truskawek"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Input1" v="Truskawki"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Input3" v="Leerpalett"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Input4" v="palety deskowe"/>
+	<e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Output1" v="Sok z truskawek"/>
+    <e k="Felsbrunn_Edit_By_MC_Erdbeersaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_function_gcHimbeersaftherstellung" v="Produkcja soku z malin"/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_function" v="Sok malinowy jest produkowany na paletach z malin, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_shopItem_HimbeersaftherstellungSmall" v="Produkcja soku z malin"/>	
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_FactoryName" v="Produkcja soku z malin"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_FactoryDescription" v="Produkcja soku z malin"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_productLine_Himbeersaft" v="Produkcja soku z malin"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Input1" v="Maliny"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Input3" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Input4" v="palety deskowe"/>
+	<e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Output1" v="Sok z malin"/>
+    <e k="Felsbrunn_Edit_By_MC_Himbeersaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_function_gcKirschsaftherstellung" v="Produkcja soku z wiśni"/>
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_function" v="Sok wiśniowy jest produkowany na paletach z wiśni, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_shopItem_KirschsaftherstellungSmall" v="Produkcja soku z wiśni"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_FactoryName" v="Produkcja soku z wiśni"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_FactoryDescription" v="Produkcja soku z wiśni"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_productLine_Kirschsaft" v="Produkcja soku z wiśni"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Input1" v="Wiśnie"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Input3" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Input4" v="palety deskowe"/>
+	<e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Output1" v="Sok z wiśni"/>
+    <e k="Felsbrunn_Edit_By_MC_Kirschsaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_function_gcPflaumensaftherstellung" v="Produkcja soku ze śliwek"/>
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_function" v="Sok śliwkowy jest produkowany na paletach ze śliwek, wody, drewnianych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_shopItem_PflaumensaftherstellungSmall" v="Produkcja soku śliwkowego"/>	
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_FactoryName" v="Produkcja soku śliwkowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_FactoryDescription" v="Produkcja soku ze śliwek"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_productLine_Pflaumensaft" v="Produkcja soku śliwkowego"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Input1" v="Śliwka"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Input3" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Input4" v="Karton"/>
+	<e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Input5" v="paleta z cukrem"/>	
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Output1" v="Sok śliwkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Pflaumensaftherstellung_Output2" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_function_Fruchtsaftlager" v="Możesz tu składować i odbierać palety z sokami owocowymi."/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager" v="Magazyn soków owocowych"/>	
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_FactoryName" v="Magazyn soków owocowych"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Description" v="Możesz tu składować i odbierać palety z sokami owocowymi."/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_HeaderOutput" v="Gotowe do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine1_Apfelsaft" v="Sok jabłkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input1" v="Sok jabłkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output1" v="Sok jabłkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine2_Birnensaft" v="Sok gruszkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input2" v="Sok gruszkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output2" v="Sok gruszkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine3_Kirschsaft" v="Sok wiśniowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input3" v="Sok wiśniowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output3" v="Sok wiśniowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine4_Pflaumensaft" v="Sok śliwkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input4" v="Sok śliwkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output4" v="Sok śliwkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine5_Himbeersaft" v="Sok malinowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input5" v="Sok malinowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output5" v="Sok malinowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_shopItem_Fruchtsaftlager_productLine6_Erdbeersaft" v="Sok truskawkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Input6" v="Sok truskawkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Fruchtsaftlager_Output6" v="Sok truskawkowy"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_function_Holzhacker" v="Rębak przetwarza kłody na trociny."/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_shopItem_Holzhacker" v="Rębak"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_FactoryName" v="Rębak"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_Description" v="Rębak przetwarza kłody na trociny."/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_HeaderInput" v="Surowiec"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_Input1" v="Gałęzie"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_HeaderOutput" v="produkcja"/>
+    <e k="Felsbrunn_Edit_By_MC_Holzhacker_Output1" v="Trociny"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_function_Multilager1" v="Tutaj możesz przechowywać i odbierać trawę, siano, słomę, kiszonkę, paszę, paszę dla świń, obornik i kompost."/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_shopItem_Multilager1Small" v="Silos 1"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_FactoryName" v="Silos 1"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Description" v="Tutaj możesz przechowywać i odbierać trawę, siano, słomę, kiszonkę, paszę, paszę dla świń, obornik i kompost."/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input1" v="Trawa"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input2" v="Siano"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input3" v="Słoma"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input4" v="Kiszonka"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input5" v="Pasza"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input6" v="Pigfeed"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input7" v="Obornik"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Input8" v="Kompost"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output1" v="Trawa"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output2" v="Siano"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output3" v="Słoma"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output4" v="Kiszonka"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output5" v="Pasza"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output6" v="Pigfeed"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output7" v="Obornik"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager1_Output8" v="Kompost"/>	
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Gras" v="Magazyn trawy"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Heu" v="Magazyn siana"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Stroh" v="Magazyn słomy"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Silage" v="Magazyn kiszonki"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Futter" v="Magazyn paszy"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Schweinefutter" v="Magazyn paszy dla świń"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Mist" v="Magazyn obornika"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager1_Kompost" v="KMagazyn kompostu"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager2_function_Multilager2" v="Tutaj możesz przechowywać i odbierać wióry i plewy."/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_shopItem_Multilager2Small" v="Silos 2"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_FactoryName" v="Silos 2"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Description" v="Tutaj możesz przechowywać i odbierać wióry i plewy."/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Input1" v="Wióry"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Input2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Output1" v="Wióry"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Output2" v="Plewy"/>
+    <e k="Felsbrunn_Edit_By_MC_Multilager2_Hackschnitzel" v="Magazyn wiór"/>
+	<e k="Felsbrunn_Edit_By_MC_Multilager2_Haeckselgut" v="Magazyn plewów"/>
+	<e k="Felsbrunn_Edit_By_MC_Milcheierlager_function_Milcheierlager" v="tutaj możesz przechowywać mleko i jajka."/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_shopItem_MilchlagerLinie1" v="Mleko storage"/>
+	<e k="Felsbrunn_Edit_By_MC_Milcheierlager_shopItem_EierlagerLinie2" v="Jajka storage"/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_FactoryName" v="Mleko and Jajka storage"/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_Description" v="tutaj możesz przechowywać mleko i jajka."/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_HeaderInput" v="Przechowywane"/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_Input1" v="Mleko"/>
+	<e k="Felsbrunn_Edit_By_MC_Milcheierlager_Input2" v="Jajka"/>        
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_HeaderOutput" v="Gotowy do załadunku"/>
+    <e k="Felsbrunn_Edit_By_MC_Milcheierlager_Output1" v="Mleko"/>
+	<e k="Felsbrunn_Edit_By_MC_Milcheierlager_Output2" v="Jajka"/>
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_function_gcPelletsherstellung" v="Produkcja drewnianego pelletu."/>
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_function" v="Drewniany pellet jest produkowany z wiór i pustych palet."/>	
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_shopItem_PelletsherstellungSmall" v="Produkcja drewnianego pelletu"/>	
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_FactoryName" v="Produkcja drewnianego pelletu"/>
+	<e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_FactoryDescription" v="Produkcja drewnianego pelletu."/>
+	<e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_productLine_Pelletspalette" v="Produkcja drewnianego pelletu"/>
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_Input1" v="Trociny"/>
+	<e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_Input2" v="puste palety"/>
+    <e k="Felsbrunn_Edit_By_MC_Pelletsherstellung_Output1" v="Drewniany pellet"/>
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_function_gcMoebelproduktion" v="Meble na paletach są produkowane w tej fabryce."/>
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_function" v="Meble są produkowane z desek, pustych palet i kartonu."/>	
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_shopItem_MoebelproduktionSmall" v="Produkcja mebli"/>	
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_FactoryName" v="Produkcja mebli"/>
+	<e k="Felsbrunn_Edit_By_MC_Moebelproduktion_FactoryDescription" v="Meble są produkowane z desek, pustych palet i kartonu."/>
+	<e k="Felsbrunn_Edit_By_MC_Moebelproduktion_productLine_Moebelproduktion" v="Produkcja mebli"/>
+	<e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Input1" v="Palety z deskami" />
+	<e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Input2" v="puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Input3" v="Karton"/>	
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Output1" v="Szafka"/>
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Output2" v="Meblościanka"/>
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Output3" v="Kredens"/>
+    <e k="Felsbrunn_Edit_By_MC_Moebelproduktion_Output4" v="Trociny"/>
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_function_gcEisherstellung" v="W tej fabryce można wytwarzać lody mieszane."/>
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_function" v="Lody mieszane produkowane są z owoców, wody, pustych palet, tektury i cukru."/>	
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_shopItem_EisherstellungSmall" v="Produkcja lodów"/>	
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_FactoryName" v="Produkcja lodów"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_FactoryDescription" v="W tej fabryce można wytwarzać lody mieszane."/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_productLine_Eis" v="Produkcja lodów"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_Input1" v="Owoce"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_Input2" v="Woda"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_Input3" v="Puste palety"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_Input4" v="Tektura"/>
+	<e k="Felsbrunn_Edit_By_MC_Eisherstellung_Input5" v="Cukier"/>	
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_Output1" v="Lód"/>
+    <e k="Felsbrunn_Edit_By_MC_Eisherstellung_Output2" v="Kompost"/>
+    </elements>
+</l10n>
